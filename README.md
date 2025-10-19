@@ -67,6 +67,9 @@ Visualization of relationships among features and target variable.
 Comparison of different algorithm performances and discussion of trade-offs (bias vs variance, interpretability vs accuracy).
 
 Provision of a trained model ready for deployment / integration into larger applications or prediction pipelines.
+TRAINING VIZUALIZATION
+<img width="863" height="577" alt="image" src="https://github.com/user-attachments/assets/a17874da-4dfd-43cd-8ba9-5e9e0286a77a" />
+
 
 🛠️ Tools & Technologies Used
 
